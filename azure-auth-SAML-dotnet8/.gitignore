@@ -1,0 +1,70 @@
+# Compiled object files
+*.o
+*.obj
+*.dll
+*.exe
+*.pdb
+
+# Build folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.diff
+*.patch
+
+# IDE folders
+.vscode/
+.idea/
+*.sln.ide/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Application-specific files
+appsettings.Development.json
+appsettings.*.json
+
+# Publish output
+publish/
+
+# Generated files
+*.generated.cs
+*.g.cs
+*.AssemblyInfo.cs
+*.i.cs
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Rider-specific files
+.idea/
+.idea_modules/
+
+# Visual Studio Code
+.vscode/
+.vscode-test/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Mac OS files
+.DS_Store

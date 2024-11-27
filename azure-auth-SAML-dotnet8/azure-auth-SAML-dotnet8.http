@@ -1,0 +1,6 @@
+@azure_auth_SAML_dotnet8_HostAddress = http://localhost:5108
+
+GET {{azure_auth_SAML_dotnet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

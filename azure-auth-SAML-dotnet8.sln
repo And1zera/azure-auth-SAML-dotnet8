@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-auth-SAML-dotnet8", "azure-auth-SAML-dotnet8\azure-auth-SAML-dotnet8.csproj", "{FF868469-5955-4251-BF8E-82C9BC64B597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF868469-5955-4251-BF8E-82C9BC64B597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF868469-5955-4251-BF8E-82C9BC64B597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF868469-5955-4251-BF8E-82C9BC64B597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF868469-5955-4251-BF8E-82C9BC64B597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D1BBF0A-5737-4383-A897-13CA272EACD1}
+	EndGlobalSection
+EndGlobal
